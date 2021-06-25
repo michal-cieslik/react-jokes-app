@@ -1,15 +1,18 @@
 import React from 'react';
 import './App.css';
+import MainBox from '../MainBox/MainBox';
 
-class App extends React.Component {
-  render() {
+function App() {
+
+  
+
     return (
       <div className="App">
-        {this.props.children}
+        <MainBox />
       </div>
     );
-  }
 
 }
 
 export default App;
+
