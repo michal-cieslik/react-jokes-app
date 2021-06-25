@@ -1,0 +1,26 @@
+.btn {
+    display: block;
+    width: 439px;
+    height: 58px;
+    margin: 25px;
+    border-radius: 6px;
+    background-color: #34394f;
+    border: solid 1px transparent;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+    cursor: pointer;
+  }
+
+.jokeText {
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: italic;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #34394f;
+    width: 439px;
+    padding: 10px;
+}
